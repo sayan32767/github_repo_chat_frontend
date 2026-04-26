@@ -28,11 +28,11 @@ Github Repo Chat connects to an Express/MongoDB backend that indexes GitHub repo
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/login.png" width="45%" />
-  <img src="./screenshots/signup.png" width="45%" />
-  <img src="./screenshots/dashboard.png" width="45%" />
-  <img src="./screenshots/repo.png" width="45%" />
-  <img src="./screenshots/chat.png" width="45%" />
+  <img src="./src/public/screenshots/login.png" width="100%" />
+  <img src="./src/public/screenshots/signup.png" width="100%" />
+  <img src="./src/public/screenshots/dashboard.png" width="100%" />
+  <img src="./src/public/screenshots/repo.png" width="100%" />
+  <img src="./src/public/screenshots/chat.png" width="100%" />
 </p>
 
 ---
